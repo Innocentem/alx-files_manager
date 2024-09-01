@@ -1,3 +1,4 @@
+//this file has a class 'Queue'
 import Queue from 'bull';
 
 export const fileQueue = new Queue('fileQueue', {

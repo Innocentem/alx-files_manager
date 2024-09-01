@@ -1,3 +1,7 @@
+/* this file contains the class RedisClient
+ * the class RedisClient has constructor that creates a client to Redis
+ */
+
 import { createClient } from 'redis';
 
 class RedisClient {

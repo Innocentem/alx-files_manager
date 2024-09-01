@@ -1,3 +1,6 @@
+//this file is called dbCleint.test.js
+//it is used to test the dbclient file that uses the Mongdb framework
+
 import { expect } from 'chai';
 import dbClient from '../utils/db';
 import sinon from 'sinon';

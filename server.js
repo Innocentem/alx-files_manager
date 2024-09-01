@@ -1,3 +1,5 @@
+//this file is called server.js
+
 const express = require('express');
 const app = express();
 const routes = require('./routes');

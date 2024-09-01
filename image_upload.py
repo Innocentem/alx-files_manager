@@ -1,3 +1,5 @@
+#this is a python file called image_upload.py
+
 import base64
 import requests
 import sys

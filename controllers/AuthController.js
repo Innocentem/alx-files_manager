@@ -1,3 +1,5 @@
+//this file is called AuthController.js
+
 import crypto from 'crypto';
 import redisClient from '../utils/redis';
 import dbClient from '../utils/db';

@@ -1,3 +1,4 @@
+//this file is called babel.config.js
 module.exports = {
     presets: [
       [

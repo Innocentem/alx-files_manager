@@ -1,3 +1,5 @@
+//this file is called AppController.js
+
 import redisClient from '../utils/redis'; // Ensure this is set up correctly
 import dbClient from '../utils/db';
 

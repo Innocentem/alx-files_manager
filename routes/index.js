@@ -1,3 +1,5 @@
+//this file is called index.js
+
 import express from 'express';
 import FilesController from '../controllers/FilesController';
 import UsersController from '../controllers/UsersController';

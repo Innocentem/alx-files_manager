@@ -1,3 +1,5 @@
+//this file is called worker.js
+
 import { Queue, Worker, QueueScheduler } from 'bullmq';
 import { MongoClient, ObjectId } from 'mongodb';
 import path from 'path';

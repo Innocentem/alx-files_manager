@@ -1,3 +1,7 @@
+/* this file contains the class DBClient
+ * the class DBClient should have the constructor that creates a client to MongoDB
+ */
+
 import { MongoClient, ObjectId } from 'mongodb';
 
 class DBClient {
