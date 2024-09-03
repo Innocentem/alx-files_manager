@@ -1,4 +1,6 @@
-//this file is called index.js
+/* this file is called index.js
+ * it contains all endpoints of our API
+ */
 
 import express from 'express';
 import FilesController from '../controllers/FilesController';

@@ -1,4 +1,7 @@
-//this file is called server.js
+/*this file is called server.js
+ * its where we create the Express server
+ * this file loads all routes from the file routes/index.js
+ */
 
 const express = require('express');
 const app = express();

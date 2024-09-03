@@ -1,4 +1,7 @@
-//this file is called worker.js
+/*this file is called worker.js
+ * we import functions like queue, worker etc
+ * we declare several constant variables like userQueue
+ */
 
 import { Queue, Worker, QueueScheduler } from 'bullmq';
 import { MongoClient, ObjectId } from 'mongodb';

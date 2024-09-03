@@ -1,4 +1,6 @@
-//this is a test file
+/* this is a test file
+ * its used to test the redisClient file
+ */
 
 import { expect } from 'chai';
 import redisClient from '../utils/redis';

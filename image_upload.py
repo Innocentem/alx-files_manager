@@ -1,4 +1,7 @@
-#this is a python file called image_upload.py
+'''
+this is a python file called image_upload.py
+it allows users to upload files
+'''
 
 import base64
 import requests

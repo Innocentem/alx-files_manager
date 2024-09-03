@@ -1,4 +1,6 @@
-//this file has a class 'Queue'
+/*this file has a class 'Queue'
+ * we import the class from bull
+ */
 import Queue from 'bull';
 
 export const fileQueue = new Queue('fileQueue', {

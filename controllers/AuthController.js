@@ -1,4 +1,6 @@
-//this file is called AuthController.js
+/* this file is called AuthController.js
+ * it contains new endpoints
+ */
 
 import crypto from 'crypto';
 import redisClient from '../utils/redis';

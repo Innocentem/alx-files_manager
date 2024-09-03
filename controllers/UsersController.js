@@ -1,4 +1,6 @@
-//this file is called UsersController.js
+/* this file is called UsersController.js
+ * it contains a new endpoint
+ */
 
 import redisClient from '../utils/redis';
 import dbClient from '../utils/db';

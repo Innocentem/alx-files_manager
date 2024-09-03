@@ -1,4 +1,6 @@
-//this file is called AppController.js
+/* this file is called AppController.js
+ * it contains the definition of the 2 endpoints
+ */
 
 import redisClient from '../utils/redis'; // Ensure this is set up correctly
 import dbClient from '../utils/db';

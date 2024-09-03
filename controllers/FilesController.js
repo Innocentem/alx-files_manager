@@ -1,4 +1,6 @@
-//this file is called FilesController.js
+/*this file is called FilesController.js
+ * it contains the new endpoint
+ */
 
 import crypto from 'crypto';
 import fs from 'fs';
